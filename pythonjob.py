@@ -26,4 +26,3 @@ for i in range(1, 4):
         if buer is True:
             pass
     print len(p.findall(text))
-    print
